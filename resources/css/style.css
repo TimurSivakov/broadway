@@ -9,7 +9,7 @@ h3 {
 }
 
 .nav {
-  background-image: url('/Users/timursivakov/Документы/projects/broadway/resources/images/the-flatiron-building.png');
+  background-image: url("/Users/timursivakov/Документы/projects/broadway/resources/images/the-flatiron-building.png");
   text-align: center;
   color: white;
 }
