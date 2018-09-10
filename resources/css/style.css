@@ -9,9 +9,9 @@ h3 {
 }
 
 .nav {
-  background-image: url("/Users/timursivakov/Документы/projects/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.jpg");
   text-align: center;
-  color: white;
+
 }
 
 .nav h1 {
